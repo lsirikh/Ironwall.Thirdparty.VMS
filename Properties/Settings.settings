@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ironwall.Thirdparty.VMS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IpAddressVca" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.202.250</Value>
+    </Setting>
+    <Setting Name="PortVca" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8080</Value>
+    </Setting>
+    <Setting Name="IdUserVca" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sensorway</Value>
+    </Setting>
+    <Setting Name="PasswordVca" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sensor6500!</Value>
+    </Setting>
+    <Setting Name="GroupVca" Type="System.String" Scope="User">
+      <Value Profile="(Default)">group1</Value>
+    </Setting>
+    <Setting Name="LicenceVca" Type="System.String" Scope="User">
+      <Value Profile="(Default)">licVCA</Value>
+    </Setting>
+    <Setting Name="TableVca" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">vca</Value>
+    </Setting>
+    <Setting Name="TimeIntevalKeepAliveVca" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="TokenVca" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TablePreset" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">preset</Value>
+    </Setting>
+    <Setting Name="IsLoginApplied" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CancelSync" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ApiUsed" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
